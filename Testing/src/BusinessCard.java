@@ -7,3 +7,4 @@ public class BusinessCard {
         System.out.println("*******************************");
     }
 }
+
